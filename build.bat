@@ -15,6 +15,7 @@ if %errorlevel% neq 0 (
 go mod vendor
 
 go build -mod=vendor -o %bin_dir%\WeatherNotify.exe %cur_dir%src\weather\main.go
+go build -mod=vendor -o %bin_dir%\QuerySoftDir.exe %cur_dir%src\query_soft_dir\main.go
 
 :successed
 echo ">>>>>>>>>>>>>>>> run %0 successed!"

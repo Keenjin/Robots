@@ -1,0 +1,31 @@
+# github.com/BurntSushi/toml v0.3.1
+## explicit
+github.com/BurntSushi/toml
+# github.com/goftp/file-driver v0.0.0-20180502053751-5d604a0fc0c9
+## explicit
+github.com/goftp/file-driver
+# github.com/goftp/server v0.0.0-20200708154336-f64f7c2d8a42
+## explicit
+github.com/goftp/server
+# github.com/keenjin/gomini v1.0.0
+## explicit
+github.com/keenjin/gomini/kfile
+github.com/keenjin/gomini/khttp
+github.com/keenjin/gomini/klog
+github.com/keenjin/gomini/kprocess
+github.com/keenjin/gomini/ktoml
+# github.com/robfig/cron v1.2.0
+## explicit
+github.com/robfig/cron
+# github.com/tidwall/gjson v1.6.0
+## explicit
+github.com/tidwall/gjson
+# github.com/tidwall/match v1.0.1
+github.com/tidwall/match
+# github.com/tidwall/pretty v1.0.0
+github.com/tidwall/pretty
+# golang.org/x/sys v0.0.0-20200826173525-f9321e4c35a6
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/windows
+golang.org/x/sys/windows/registry

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Keenjin/gomini/khttp"
+	"github.com/keenjin/gomini/khttp"
 	"github.com/robfig/cron"
 	"github.com/tidwall/gjson"
 	"strings"
